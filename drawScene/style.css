@@ -1,0 +1,7 @@
+canvas {
+    border: 10px solid gray;
+}
+button {
+    display: inline-block;
+    margin: 5px 5px; 
+}
